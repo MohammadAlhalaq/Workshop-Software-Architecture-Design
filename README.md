@@ -25,8 +25,14 @@ It is like showing a route on a map. Both the route and the map are abstractions
 
 - ##### Architectural concerns also affect our file structure and _how we write code_ in a macro way. We will cover architecture-friendly code in a later workshop.
 
+![file structure](./file-structure.jpeg)
 
+***
+
+- ## example.
 [![file structure](https://media.prod.mdn.mozit.cloud/attachments/2014/11/11/9231/c5b2b5fba968bc6d3d896b39409c889e/file-structure.png)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+
+
 
 ### Exercise 1: Read the steps below. We will map out an API call on the board taking into account the relationship between the [client](https://techterms.com/definition/client) and [server](https://techterms.com/definition/server).
 
